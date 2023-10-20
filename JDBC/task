@@ -1,0 +1,3 @@
+// Stwórz klase samochod marka model cena przebieg. Stwórz kilka samochodow i zapisz je do bazy danych,
+// nastepnie usun jedno auto a potem inne zmien marke
+// odczytaj wszystkie auta
